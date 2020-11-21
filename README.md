@@ -1,3 +1,7 @@
+# :warning: This project has moved! :warning: 
+
+**Development of this project has moved to [algorists](https://github.com/algoristas/algorists).  The most recent version of this should be found there.**
+
 # Algorists
 
 Repo to share weekly talks/challenges solutions.
